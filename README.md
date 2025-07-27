@@ -50,4 +50,5 @@ This is an Arduino-based robot that **automatically avoids obstacles** and **mon
 ---
 
 ## 📸 Snapshots
-
+https://github.com/Jalaj2104/Obstacle-Avoiding-Telematics-Robot/tree/main/videos
+https://github.com/Jalaj2104/Obstacle-Avoiding-Telematics-Robot/tree/main/images
